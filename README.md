@@ -1,5 +1,6 @@
 # ProjetData
 
 N'oubliez pas d' :
-- Installer kaggle avec: 'pip install kaggle' et de rajouter le fichier kaggle.json dans .kaggle
-- Installer Xgboost avec : 'pip install Xgboost'
+- Installer un truc avec: 'pip install un truc'
+
+Le score 204,67 s'obtient avec model : Bagging(Lightgbm avec les paramètres sur le notebook)
